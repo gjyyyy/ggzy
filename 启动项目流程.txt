@@ -1,0 +1,7 @@
+先开启docker（mysql、redis）
+
+启动前端 npm run dev
+
+启动后端项目
+
+记得最好开启vpn（pinecone需要--RAG）
