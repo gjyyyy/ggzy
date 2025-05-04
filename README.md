@@ -2,7 +2,7 @@
 
 项目功能展示图：
 
-![image-20250504170726730](C:\Users\郭佳运\AppData\Roaming\Typora\typora-user-images\image-20250504170726730.png)
+![image-20250504170726730](image-1.png)
 
 可以看出是经过RAG后返回的数据。
 
