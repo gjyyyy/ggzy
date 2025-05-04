@@ -10,13 +10,13 @@
 
 MySQL中也插入了一条数据：
 
-![image-20250504170805270](C:\Users\郭佳运\AppData\Roaming\Typora\typora-user-images\image-20250504170805270.png)
+![image-20250504170805270](image-2.png)
 
 
 
 Redis中聊天记忆也已持久化：
 
-![image-20250504170909031](C:\Users\郭佳运\AppData\Roaming\Typora\typora-user-images\image-20250504170909031.png)
+![image-20250504170909031](image-3.png)
 
 
 
